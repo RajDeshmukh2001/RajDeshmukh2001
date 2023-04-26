@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajDeshmukh2001
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning MERN stack web development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me rajdd61@gmail.com
 
