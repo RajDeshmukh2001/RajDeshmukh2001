@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RajDeshmukh2001
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack web      development
+- 👋 Hi, I’m Prithviraj Deshmukh
+- 👨‍💻 Web Developer | React, Next.js enthusiast 🚀
+- 📚  I’m currently learning MERN stack web development
 - 📫 How to reach me rajdd61@gmail.com
 
 <!---
