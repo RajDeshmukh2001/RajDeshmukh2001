@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Prithviraj Deshmukh
-- 👨‍💻 Full Stack Developer | JavaScript, React.js, Node.js, Next.js, Express.js, MongoDB, Python, Django, PHP, MySQL, HTML5, CSS3, SCSS, Git
-- 📚 I’m currently learning web development using MERN (MongoDB, Express.js, React.js, Node.js)
+- 👨‍💻 Full Stack Developer | JavaScript, React.js, Node.js, Next.js, Express.js, MongoDB, Python, Django, PHP, MySQL, Tailwind CSS, HTML5, CSS3, SCSS, Git
 - 📫 How to reach me rajdd61@gmail.com
 
 <!---
