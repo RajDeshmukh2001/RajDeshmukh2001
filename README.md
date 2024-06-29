@@ -21,7 +21,7 @@ Currently, I am expanding my skills by learning Next.js and React Redux. I am op
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 
 ### Frameworks & Libraries
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React.js-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-FFFFFF.svg?logo=next.js&logoColor=black"></a>
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
