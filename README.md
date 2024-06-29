@@ -29,6 +29,7 @@ Currently, I am expanding my skills by learning Next.js and React Redux. I am op
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
 <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=SASS&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF.svg?logo=framer&logoColor=white"></a>
 
 ### Databases
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
